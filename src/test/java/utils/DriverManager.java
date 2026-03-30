@@ -1,3 +1,4 @@
+// Handles WebDriver instance using ThreadLocal for parallel execution
 package utils;
 
 import org.openqa.selenium.WebDriver;
