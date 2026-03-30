@@ -31,3 +31,5 @@ test-output/ExtentReport.html
 
 ## Notes
 This project was developed as part of a software testing course.
+## Status
+All tests are passing successfully.
