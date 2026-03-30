@@ -1,5 +1,6 @@
 package base;
 
+// Base test setup for WebDriver initialization
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import utils.DriverManager;
